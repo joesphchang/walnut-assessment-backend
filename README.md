@@ -14,5 +14,24 @@ MongoDB
 Postman
 Heroku to deploy
 
+## Installation 
+1. Fork and copy the SSH of the repo
+2. Paste SSH within Terminal in designated folder
+    ```
+    git clone repo link
+    ```
+3. Install required dependencies 
+    ``` 
+    npm i
+    ```
+4. Start Server in Terminal
+```
+nodemon 
+```
+5. Data is preconfigured to port 3000.
+    ```
+    http://localhost:3000/
+    ```
+
 ### API URL
 https://walnut-assessment.herokuapp.com/api/users
