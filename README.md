@@ -25,9 +25,9 @@ Heroku to deploy
     npm i
     ```
 4. Start Server in Terminal
-```
+    ```
     node index.js
-```
+    ```
 5. Data is preconfigured to port 3000.
     ```
     http://localhost:3000/
