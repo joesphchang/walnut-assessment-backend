@@ -26,7 +26,7 @@ Heroku to deploy
     ```
 4. Start Server in Terminal
 ```
-nodemon 
+    node index.js
 ```
 5. Data is preconfigured to port 3000.
     ```
