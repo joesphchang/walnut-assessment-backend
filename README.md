@@ -15,3 +15,4 @@ Postman
 Heroku to deploy
 
 ### API URL
+https://walnut-assessment.herokuapp.com/api/users
