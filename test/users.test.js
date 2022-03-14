@@ -29,7 +29,7 @@ describe('GET /api/users', () => {
 			.end((error, response) => {
 				response.body.forEach((user) => {
 					expect(user).to.have.property('name');
-					expect(user).to.have.property('url');
+					expect(user).to.have.property('reads');
 					expect(user).to.have.property('tags');
 				});
 				done();
